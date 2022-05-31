@@ -4,7 +4,7 @@ body{
 header{
 	background-image: url(http://192.168.0.30/Subindices/Grupos/Talde6/foto1.png);
 	background-size: contain;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat; 
 	background-position: center;
 	padding-left: 10px;
 	padding-top: 5px;
